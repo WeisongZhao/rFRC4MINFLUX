@@ -4,10 +4,15 @@ This repository is distributed as an accompanying part of publication: [Weisong 
 
 This repository is provided to reproduce our rFRC mapping on the MINFLUX data, including `Raw localization json files` provided by [Roman Schmidt et al.](https://doi.org/10.1038/s41467-021-21652-z); `Python scripts` to generate MINFLUX image stacks; `Archived version of rFRC ImageJ plugin (1/7 threshold)` to map local qualities; and `rFRC mapping results` for 3 representative cases.
 
-[Portal](https://github.com/WeisongZhao/rFRC4MINFLUX/raw/main/rFRC_0143_-0.2.5.jar) to the `json files`.
-[Portal](https://github.com/WeisongZhao/rFRC4MINFLUX/raw/main/rFRC_0143_-0.2.5.jar) to the `Python scripts`.
+[Portal](https://github.com/WeisongZhao/rFRC4MINFLUX/tree/main/MINFLUXdata%20generation) to the `json files`.
+
+[Portal](https://github.com/WeisongZhao/rFRC4MINFLUX/blob/main/MINFLUXdata%20generation/MINFLUX_split_data_scripts.py) to the `Python scripts`.
+
 [Portal](https://github.com/WeisongZhao/rFRC4MINFLUX/raw/main/rFRC_0143_-0.2.5.jar) to the `ImageJ plugin`.
-[Portal](https://github.com/WeisongZhao/rFRC4MINFLUX/raw/main/rFRC_0143_-0.2.5.jar) to the `rFRC mapping results`.
+
+[Portal](https://github.com/WeisongZhao/rFRC4MINFLUX/tree/main/rFRC%20results) to the `rFRC mapping results`.
+
+[Portal](https://github.com/WeisongZhao/rFRC4MINFLUX/raw/main/sJet.lut) to the `sJet color bar`.
 
 
 ### Parameters for rFRC mapping 
